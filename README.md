@@ -1,1 +1,1 @@
-Posting solved problems from the Softni Python-Web Course.
+Posting solved problems from the Softuni Python-Web Course.
