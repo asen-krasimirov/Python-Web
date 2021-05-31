@@ -3,5 +3,5 @@ from Petstagram.common import views
 
 
 urlpatterns = [
-    path('', views.landin_page, name='landing'),
+    path('', views.landing_page, name='landing'),
 ]
